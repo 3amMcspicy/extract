@@ -24,3 +24,6 @@ extract.py research_paper.pdf
 and a map would be displayed.
 
 In this case, a starting point would be writing the argument parser in the code. 
+
+
+For the installing instruction of tabula. It might be good to indicate that the module to install is tabula-py and not just tabula.
